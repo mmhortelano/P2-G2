@@ -1,0 +1,153 @@
+---
+title: "$$P2-G2$$"
+output: html_document
+---
+
+ 
+ 
+   **1. Calcula:**    
+   a)$(-3)^0 = \boxed{1}$
+   
+   b)$(-5)^2 +  (-5)^3 - (-5)^0 = 25-125+1 = \boxed{-101}$
+   
+   c)$13^{-1} = \boxed{\dfrac{1}{13}}$    
+   
+   d)$(-7)^{-2}= \dfrac{1}{7^2} \rightarrow \boxed{ \dfrac{1}{49}}$  
+   
+   
+   
+   
+   
+   **2. Reduce a una única potencia:**    
+   a)$(b^5)^3 : (b^3\cdot b)^3$     
+   **Sol:**$b^{15}:(b^4)^3=b^{15}:b^{12}=\boxed{b^3}$ 
+   
+   b)$[a^3·a^4]^2:[a^{15} :a^{13}]^{12}$    
+   **Sol:**$[a^7]^2 : [a^2]^{12}= a^{14}:a^{24} = a^{-10} \rightarrow\boxed{\dfrac{1}{a^{10}}}$
+   
+   c)$[a^4·a^4]:[a^{12}:a^4]$    
+   **Sol:** $a^8:a^8=a^0 \rightarrow \boxed{1}$        
+   
+   **3. Efectúa y simplifica descomponiendo en factores:**    
+   a) $\dfrac {12}{7} · \dfrac{35}{36}$    
+   **Sol:**$\dfrac{12·35}{7·36}= \dfrac{6·2·5·7}{6·2·3·7}=\boxed{\dfrac{5}{3}}$    
+   
+   b)$\dfrac{9}{16}·\dfrac{20}{27}$    
+   
+   
+   **Sol:**$\dfrac{9·20}{16·27}=\dfrac{3·3·2·2·5}{4·2·3·3·3}=\dfrac{5}{4·3}=\boxed{\dfrac{5}{12}}$    
+   
+   **4. Calcula:**    
+   a)$\dfrac{\dfrac{2}{3}-1-\dfrac{1}{2}}{\dfrac{1}{4}+\dfrac{1}{2}}$    
+   
+   **Sol:** $\dfrac{\dfrac{4}{6}-\dfrac{6}{6}-\dfrac{3}{6}}{\dfrac{1}{4}+\dfrac{2}{4}}$ = $\dfrac{\dfrac{-5}{6}}{\dfrac{3}{4}}$
+   = $\dfrac{-20}{18}$ $\rightarrow$$\boxed{ \dfrac{-10}{9}}$    
+   
+   b)$\dfrac{2-\dfrac{1}{3}+1}{\dfrac{3}{2}-1+\dfrac{1}{3}}$    
+   
+   **Sol:**$\dfrac{\dfrac{6}{3}-\dfrac{1}{3}+\dfrac{3}{3}}{\dfrac{9}{6}-\dfrac{6}{6}+\dfrac{2}{6}}=\dfrac{\dfrac{8}{3}}{\dfrac{5}{6}}=\dfrac{48}{15} \rightarrow \boxed{\dfrac{16}{5}}$    
+   
+   **5. Una mezcla de cereales está compuesta por 7/15 de trigo, 9/25 de avena y el resto de arroz.**    
+   a). ¿Qué parte del arroz tiene la mezcla?    
+   $\dfrac{7}{15}+\dfrac{9}{25}=\dfrac{35}{75}+\dfrac{27}{75}=\dfrac{62}{75}$ $\rightarrow$ (cantidad de trigo+avena)    
+   
+  Para calcular la cantidad de arroz que hay en la mezcla le restamos al total de cereales (75g)la suma de los otros cereales(75-62).
+   **Sol:** $\boxed{\dfrac{13}{75}}$
+   b). ¿Qué cantidad de cada cereal habrá en 600 g de mezcla?    
+   Para calcular la cantidad de cereal que habrá en 600g, hacemos una regla de tres con cada cereal:   
+   **trigo**    
+   $75g(cereales)$$\longrightarrow$$35g(trigo)$    
+   $600g(cereales)$$\longrightarrow$ $x(g. trigo)$    
+   
+   $\dfrac{600·35}{75}=280g$    
+   
+   **avena**    
+   $75g(cereales)$$\longrightarrow$$27g(avena)$    
+   $600g(cereales)$$\longrightarrow$$x(g.avena)$    
+   
+   $\dfrac{600·27}{75}=216g$    
+   
+   **arroz**    
+   $75g(cereales$$\longrightarrow$$13g(arroz)$    
+   $600g(cereales)$$\longrightarrow$$x(g.arroz)$    
+   
+   $\dfrac{600·13}{75}=104g$
+   
+   **6. Compro a plazos una bicicleta que vale 540€. Pago el primer mes los 2/9; el segundo los 7/15 de lo que me queda por pagar y luego 124€.**    
+   a)¿Cuánto he pagado cada vez?    
+   $Mes$ $1$ $\rightarrow$ $\dfrac{2}{9}$ $de$ $540$ $\longrightarrow$ $\dfrac{2·540}{9}=120€$    
+   
+   $Mes$ $2$ $\rightarrow$ $\dfrac{7}{15}$ $del$ $resto$ $\rightarrow$ $\dfrac{7}{15}$ $de$ $420$ $\longrightarrow$ $\dfrac{7·420}{15}=196€$    
+   
+   $Mes$ $3$$\rightarrow$ $124€$
+   
+   b)¿Qué parte del precio me queda por pagar?    
+   $540-(120+196+124)=540-440=100€$    $\longrightarrow$$\dfrac{100}{540}=\boxed{\dfrac{5}{27}}$
+   
+   **7. De un depósito de aceite, se vacía la mitad; de lo que queda, se vacía otra vez la mitad y luego los 11/15 del resto. Si al final quedan 36 l, ¿cuántos había al principio?**    
+   $Al$ $vaciar$ $11/15$ $del$ $resto,$ $en$ $el$ $depósito$ $quedan$ $36l,$ $por$ $lo$ $que:$    
+   
+   $36=\dfrac{4}{15}·x$ $;$ $x=\dfrac{36·15}{4}=135l$    
+   
+   $135·2=270l$
+   
+   $270·2=540l$    
+   
+   **Sol:** $\boxed{540l}$
+   
+   
+   **8. Del dinero de una cuenta bancaria, retiramos primero los 3/8 y después los 7/10 de lo que quedaba. Si el saldo actual es 1893€. ¿Cuánto había al principio?**    
+   $Si$ $después$ $de$ $retirar$ $7/10$ $de$ $lo$ $que$ $quedaba,$ $en$ $la$ $cuenta$ $quedan$ $1893$ $entonces:$    
+   
+   $1893=\dfrac{3}{10}·x$ $;$ $x=\dfrac{1893·10}{3}=6310$    
+   
+   $6310=\dfrac{5}{8}·n$ $;$ $n=\dfrac{6310·8}{5}=10096$    
+   
+   **Sol:**$\boxed{ 10096€}$
+   
+   **9. Con los siguientes polinomios:**     
+   
+   $\bullet$  $P(x)=3x^-7x^3+2x^2-11$    
+   
+   $\bullet   Q(x)=4x^4+5x^3-8x^2+12$    
+   
+   $\bullet R(x)=3x^5-7x^4+6x-5$    
+   
+   Realiza estas operaciones.    
+   
+   a)$R(x)+Q(x)$ $;$ $(3x^5-7x^4+6x-5)+(4x^4+5x^3-8x^2+12)$    
+   **Sol:** $3x^5-7x^4+4x^4+5x^3-8x^2+12-5=$  $\boxed{3x^5-3x^4+5x^3-8x^2+6x+7}$    
+   
+   
+   b)$P(x)-Q(x)+R(x)$ $;$ $(3x^-7x^3+2x^2-11)-(4x^4+5x^3-8x^2+12)+(3x^5-7x^4+6x-5)$    
+   **Sol:**$3x^4-7x^5+2x^3-11-4x^4-5x3+8x^2-12+3x^5-7x^4+6x-5=$ $\boxed{-4x^5-8x^4-5x^3+10x^2+6x-28}$
+   
+   **10. Calcula estos productos de binomios**    
+   
+   a)$(x^2+11)·(x^2-11)$    
+   **Sol:**$x^2-(11)^2=$$\boxed{x^4-121}$
+   
+   b)$(x^3+y^3)·(7x+2)$    
+   **Sol:**$\boxed{7x^4+2x^3+7xy^3+2y^3}$
+   
+   **11. Desarrolla las siguientes expresiones utilizando las identidades notables.**    
+   
+   a)$(a+3b)^2$    
+   **Sol:**$a^2+2·a·3b+(3b)^2$$\rightarrow$$\boxed{a^2+6ab+9b^2}$
+   
+   b)$(a-3b)^2$     
+   **Sol:**$a^2-2·a·3b+(3b)^2$$\rightarrow$$\boxed{a^2-6ab+9b^2}$
+   
+   c)$(3a+b)^2$    
+   **Sol:**$(3a)^2+2·3a·b+b^2$$\rightarrow$$\boxed{9a^2+6ab+b^2}$
+   
+   d)$(a+3b)·(a-3b)$    
+   **Sol:**$\boxed{a^2-9b^2}$
+   
+   **12. Extrae factor común en estas expresiones:**    
+   a)$x^3-7x^4+2x^2y$    
+   **Sol:**$\boxed{x^2(x-7x^2+2y)}$    
+   
+   b)$3t^5+21t^3x^4+15t^2x$    
+   **Sol:**$\boxed{3t^2(t^3+7tx^4+5x)}$
+   
